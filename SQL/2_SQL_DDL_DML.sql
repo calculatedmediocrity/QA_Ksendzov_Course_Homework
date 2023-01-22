@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 --Таблица employees
 
 /* 1. Создать таблицу employees
@@ -558,6 +557,3 @@ values (1, 1),
 	(38, 18),
 	(39, 19),
 	(40, 20);
-
->>>>>>> cde7a9e61db3e0126365533588a55ca69c251a4a
-select * from roles_employee;
