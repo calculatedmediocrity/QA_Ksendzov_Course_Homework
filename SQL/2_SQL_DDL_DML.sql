@@ -70,8 +70,26 @@ values ('Domenica Nica Baccalieri'),
        ('Kelly Blundetto'),            
        ('Louise Blundetto'),           
        ('Angie Bonpensiero'),          
-       ('Edward Duke Bonpensiero');  
-
+       ('Edward Duke Bonpensiero'),
+       ('Matthew Bonpensiero'),     
+       ('Terri Bonpensiero'),       
+       ('Lisa Cestone'),            
+       ('Justin Cifaretto'),       
+       ('Gabriella Dante'),   
+       ('Heather Dante'),           
+       ('Benito Benny Fazio, Sr'),
+       ('Constanza "Connie" Fazio'),
+       ('Jennifer "Jen" Fazio'),    
+       ('Jason Gervasi'),            
+       ('Marianucci Gualtieri'),
+       ('Finn DeTrolio'),
+       ('Coach Don Hauser'),
+       ('Caitlin Rucker'),
+       ('Hunter Scangarelo'),
+       ('Noah Tannenbaum'),
+       ('Ally Vandermeed')
+       ('Dr. Jennifer Melfi');
+       
 select * from employees e;
 
 --Таблица salary
