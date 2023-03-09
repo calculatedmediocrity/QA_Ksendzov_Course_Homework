@@ -1,4 +1,4 @@
-# Linux terminal (GitBash) commands
+# Linux terminal (GitBash) commands - HW_1
 1) Посмотреть где я: 
    >pwd
 2) Создать папку:
